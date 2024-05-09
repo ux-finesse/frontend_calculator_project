@@ -79,7 +79,7 @@ function keyboardInputHandler(e){
 
   //press enter to see result
   if (e.key === "Enter") {
-    output.value = eval(output.value);7
+    output.value = eval(output.value);
   }
 
   //backspace for removing the last input
